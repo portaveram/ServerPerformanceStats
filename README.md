@@ -1,35 +1,14 @@
-# Server Performance Stats (Beginner)
+# Server Performance Stats
+A bash script to analyse basic server performance stats.
 
-## 📋 Description
-A beginner-friendly Bash script that analyzes and displays basic Linux server performance statistics.  
-It provides quick insights into CPU, memory, and disk usage, as well as top processes by resource consumption.
+##  Getting Started
 
----
-
-## ⚙️ Requirements
-- Linux or WSL (Windows Subsystem for Linux)
-- Bash shell
-
----
-
-## 🧠 Features
-- Total CPU usage
-- Total memory usage (used, free, percentage)
-- Total disk usage (used, free, percentage)
-- Top 5 processes by CPU usage
-- Top 5 processes by memory usage
-
-### 🏆 Stretch Goals
-- OS version
-- Uptime
-- Load average
-- Logged-in users
-- Failed login attempts (requires root)
-
----
-
-## 🚀 Usage
-1. Clone the repository:
-   ```bash
+###  Stretch Goals
+1. Clone the Repository
    git clone https://github.com/portaveram/ServerPerformanceStats.git
-# ServerPerformanceStats
+   cd ServerPerformanceStats
+2. Make the Script executable
+   chmod +x ServerPerformanceStats.sh
+3. Execute the Script
+   ./ServerPerformanceStats.sh
+   
