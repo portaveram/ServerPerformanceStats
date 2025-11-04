@@ -2,8 +2,6 @@
 A bash script to analyse basic server performance stats.
 
 ##  Getting Started
-
-###  Stretch Goals
 1. Clone the Repository  
 ```bash
 git clone https://github.com/portaveram/ServerPerformanceStats.git
