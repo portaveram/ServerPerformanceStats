@@ -10,9 +10,10 @@ git clone https://github.com/portaveram/ServerPerformanceStats.git
 cd ServerPerformanceStats
 ```
 2. Make the Script executable  
-```bash```
+```bash
 chmod +x ServerPerformanceStats.sh
+```
 3. Execute the Script  
-```bash```
+```bash
 ./ServerPerformanceStats.sh
-   
+```
